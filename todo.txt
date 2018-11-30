@@ -1,0 +1,9 @@
+clear all data from table = cleared some, will deal with the rest later
+print receipt
+fix layered pane
+admin deposit and withdrawal
+deleting client what happens to balance.
+VIEW TABLE IS NOT PICKING UP CLIENT ID
+exceptions for fields like phone; max varchar  15
+
+jogot workflow
